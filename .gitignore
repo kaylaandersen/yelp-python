@@ -10,3 +10,4 @@ build/
 dist/
 tests/json/credentials_secret.json
 venv-*
+.yelp_api_key.json
